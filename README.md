@@ -1,7 +1,7 @@
 # ITDS_Stock_Prediction
 Tartu University 2020 Introduction to Data Science group project
 
-Our code is seperated in two parts. The first part was run on the local machine as we used various statistical packages (not all of which were supported by Google Colaboratory).
+Our code is separated in two parts. The first part was run on the local machine as we used various statistical packages (not all of which were supported by Google Colaboratory).
 
 The second part (including SVM and Neural Networks) we run on Google Colaboratory:
 
